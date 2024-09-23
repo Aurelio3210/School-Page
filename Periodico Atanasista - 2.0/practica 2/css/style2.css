@@ -1,0 +1,24 @@
+body {
+    background-color: black;
+    font-size: 50px;
+}
+
+div{
+    font-weight: bold;
+    text-align: center;
+}
+
+.neon {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(126, 99, 99);
+    margin-top: 100px;
+    font-size: 25vh;
+    text-shadow: 0 0 5px rgb(235, 107, 107),
+                 0 0 10px rgb(138, 138, 243),
+                 0 0 15px rgb(41, 240, 147),
+                 0 0 20px rgb(9, 44, 9),
+                 0 0 60px rgb(214, 130, 130),
+                 0 0 100px rgb(226, 23, 23);
+
+}
+

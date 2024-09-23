@@ -1,0 +1,15 @@
+body {
+    background: rgb(227, 225, 248);
+}
+img{
+    float: left;
+    width: 300px;
+    height: 300px;
+    margin-right: 10px;
+    border-top-right-radius: 100%;
+}
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;
+    color: rgb(66, 151, 44);
+}
